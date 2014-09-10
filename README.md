@@ -17,4 +17,4 @@ No code should ever be pushed to the remote server from your own branch, only th
 
 
 Commit message format should be as follows:
-Update/Add/Delete - <Filename> <Message>
+Update/Add/Delete -  Filename Message
